@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Hamburger",
+        "ingredients": ["Kjøttdeig", "Brød", "Løk"],
+        "time": 10,
+        "description": [
+            "Form kjøttdeigen til burgere.",
+            "Stek burgerne på medium varme til de er gjennomstekte.",
+            "Skjær løken i skiver og stek til den er gyllen.",
+            "Legg burgeren i brødet med stekt løk og ønsket tilbehør."
+
+        ]
+    },
+    {
+        "name": "Pasta med kylling",
+        "ingredients": ["Kylling", "Pasta", "Gulrot"],
+        "time": 15,
+        "description": [
+            "Kok pasta etter anvisning på pakken.",
+            "Skjær kyllingen i biter.",
+            "Stek kyllingen til den er gjennomstekt.",
+            "Tilsett strimlede gulrøtter, og la det småkoke i noen minutter.",
+            "Bland kyllingen og gulrøttene med den ferdige pastaen."
+        ]
+    },
+    {
+        "name": "Fisk med ris",
+        "ingredients": ["Fisk", "Ris", "Løk"],
+        "time": 20,
+        "description": [
+            "Kok ris etter anvisning på pakken.",
+            "Krydre fisken og stek den i litt olje til den er gjennomstekt.",
+            "Skjær løken i skiver og stek til den er myk og gyllen.",
+            "Server fisken med ris og stekt løk på toppen."
+        ]
+    },
+    {
+        "name": "Grillet kylling",
+        "ingredients": ["Kylling", "Paprika", "Løk"],
+        "time": 30,
+        "description": [
+            "Forvarm grillen eller stekepannen.",
+            "Skjær kyllingen i biter og krydre etter smak.",
+            "Grill kyllingen til den er gjennomstekt.",
+            "Grill paprika og løk til de er møre.",
+            "Server kyllingen med grillet paprika og løk."
+        ]
+    },
+    {
+        "name": "Vegetarisk pasta",
+        "ingredients": ["Pasta", "Gulrot", "Brokoli"],
+        "time": 25,
+        "description": [
+            "Kok pasta etter anvisning på pakken.",
+            "Skjær gulroten i skiver og brokkolien i buketter.",
+            "Damp gulrot og brokkoli til de er møre.",
+            "Bland grønnsakene med den ferdige pastaen.",
+            "Server med litt olivenolje eller saus etter ønske."
+        ]
+    },
+    {
+        "name": "Kyllingfajitas",
+        "ingredients": ["Kylling", "Paprika", "Løk", "Brød"],
+        "time": 20,
+        "description": [
+            "Skjær kyllingen i strimler og krydre.",
+            "Stek kyllingen til den er gjennomstekt.",
+            "Skjær paprika og løk i strimler og stek til de er møre.",
+            "Server kyllingen med paprika og løk i fajitabrød."
+        ]
+    },
+    {
+        "name": "Potetmos",
+        "ingredients": ["Poteter", "Melk", "Smør"],
+        "time": 15,
+        "description": [
+            "Skrell og kok potetene til de er møre.",
+            "Mos potetene med en potetmoser.",
+            "Tilsett melk og smør, og rør til ønsket konsistens.",
+            "Smak til med salt og pepper."
+        ]
+    },
+    {
+        "name": "Soppstuing",
+        "ingredients": ["Sopp", "Løk", "Kremfløte"],
+        "time": 10,
+        "description": [
+            "Skjær soppen i skiver og hakk løken.",
+            "Stek soppen og løken i en panne til de er møre.",
+            "Tilsett kremfløte og la det småkoke til sausen tykner.",
+            "Smak til med salt og pepper."
+        ]
+    },
+    {
+        "name": "Risotto",
+        "ingredients": ["Ris", "Kylling", "Løk"],
+        "time": 30,
+        "description": [
+            "Kok risen etter anvisning på pakken.",
+            "Skjær kyllingen i biter og stek til den er gjennomstekt.",
+            "Hakk løken og stek den til den er gyllen.",
+            "Bland risen med kyllingen og løken.",
+            "Smak til med salt og pepper."
+        ]
+    },
+    {
+        "name": "Omelett",
+        "ingredients": ["Egg", "Løk", "Paprika"],
+        "time": 10,
+        "description": [
+            "Pisk eggene i en bolle.",
+            "Hakk løk og paprika i små biter.",
+            "Stek løken og paprikaen til de er møre.",
+            "Hell eggene i pannen og stek til omeletten er gjennomstekt."
+        ]
+    }
+]

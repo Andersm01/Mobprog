@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585159372354",
+    "project_id": "culinaire-d7287",
+    "storage_bucket": "culinaire-d7287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585159372354:android:5f16777c3172961e2107db",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8fEUz-Lo6RaP4ZkjYwlxS-EzFSHKeC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

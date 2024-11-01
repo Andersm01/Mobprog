@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_culinaire">Culinaire</string>
+    <string name="title_activity_ukeplan">Ukeplan</string>
+    <string name="title_activity_bottom_nav_bar">BottomNavBar</string>
+    <string name="title_activity_my_dinners_screen">MyDinnersScreen</string>
+    <string name="title_activity_settings_screen">SettingsScreen</string>
+
+
+</resources>
