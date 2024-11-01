@@ -7,7 +7,7 @@
             "Form kjøttdeigen til burgere.",
             "Stek burgerne på medium varme til de er gjennomstekte.",
             "Skjær løken i skiver og stek til den er gyllen.",
-            "Legg burgeren i brødet med stekt løk og ønsket tilbehør."
+            "Legg burgeren i brødet med stekt løk og ønsket tilbehør. ja"
 
         ]
     },
